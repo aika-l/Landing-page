@@ -1,0 +1,59 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background: url(http://clipart-library.com/images/8iAoGx4BT.jpg);
+    background-repeat:repeat-y;
+    background-size: contain;
+}
+/* nav */
+a{
+    color:#2c363f;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.nav-link{
+    font-size: 1.1rem;
+    
+}
+.hero-content{
+    margin-top:4rem;
+}
+.hero-content h1{
+    font-weight: 900;
+    font-size: 3.5rem;
+}
+.hero-content h3{
+    font-weight: 700;
+}
+.social-icons-hero div{
+    border: 1px solid #2c363f;
+    border-radius: 50%;
+}
+/* About */
+.section-heading{
+    font-weight: 700;
+    font-size: 3.5rem;
+}
+.btn-main{
+    background-color: #2c363f;
+    color: #fafaff;
+    font-size: 1.3rem;
+}
+/* Services */
+.service{
+    border-radius: 2rem;
+    display: inline-block;
+}
+.service h3{
+    font-weight: 700;
+}
+.service i{
+    font-size: 2rem;
+}
+/* COntact */
+.contact input, .contact textarea{
+    padding: 1rem 0.4rem;
+    font-size: 1.3rem;
+    width: 100%;
+}
